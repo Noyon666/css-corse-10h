@@ -1,0 +1,40 @@
+/* h1 = selector
+color= property
+red =value */
+
+
+
+h1 {
+    color: violet;   /* => declaration*/
+    font-size: 60px;   /* => declaration*/
+}
+p {
+    color: blueviolet;
+    font-size: 20px;
+}
+div {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    margin-bottom: 20px;
+    
+}
+div p{
+    color: violet;
+    
+}
+.fst-div{
+    text-align: center;
+}
+.blk{
+    text-align: end;
+    color: brown;
+}
+.big-div{
+    height: 400px;
+    width: 500px;
+}
+ h2 {
+    border : 15px;
+    background-color: pink;
+ }
